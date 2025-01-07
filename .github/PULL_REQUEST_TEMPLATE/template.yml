@@ -11,7 +11,7 @@ body:
       required: true
   - type: textarea
     attributes:
-      label: 📎 Issue 번호
+      label: 📎 Issue 번호 작성
       description: 이슈 번호를 적어주세요.
       placeholder: 이슈 번호를 적어주세요.
     validations:
